@@ -1,0 +1,67 @@
+@media screen and (max-width: 600px) {
+    .pfooter {
+        font-size: 15px !important ;
+        line-height: 20px !important;
+        
+    }
+    
+}
+
+
+body{
+    background-color: #8CBF3F;
+    
+}
+/*nav bar*/
+.backcolornav{background-color:#9453A6;}
+.logo{
+    width: 40px; 
+    height: 40px;
+}
+/*slider*/
+.pics{height: 93.5vh;}
+/*content about*/
+.hcontent{ 
+    margin-top: 140px;
+    font-family: 'Henny Penny';
+    color:#F2CC0F;
+}
+.pwhite{  
+    font-family: 'Roboto', sans-serif;
+    color: #F2F2F2;
+}
+.hcontent2{
+    font-family: 'Henny Penny';
+    color:#F2CC0F;
+}
+/*content cards*/
+.container-m-top{
+    margin-top: 100px;
+}
+.piccard {
+    height: 300px;
+}
+.backcolorcard{
+    background-color: #9453A6;
+}
+h5 {
+    font-family: 'Henny Penny';
+    color:#F2CC0F;
+
+}
+.btncolor{
+    background-color: #F2CC0F;
+}
+
+/*footer*/
+.footer1{background-color:#9453A6;}
+.row-m-left{margin: 0px;}
+.text{
+    text-align: center;
+}
+.pfooter{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #F2F2F2;
+    line-height: 50px;  
+}

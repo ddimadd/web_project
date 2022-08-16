@@ -1,0 +1,57 @@
+@media screen and (max-width: 600px) {
+    .pfooter {
+        font-size: 15px !important ;
+        line-height: 20px !important;
+        
+    }
+    
+}
+
+body{
+    background-color: #8CBF3F;
+    
+}
+/*nav bar*/
+.backcolornav{background-color:#9453A6;}
+.logo{
+    width: 40px; 
+    height: 40px;
+}
+/*acardion content*/
+h1{
+    font-family: 'Henny Penny'; 
+    color: #9453A6;
+}
+a {
+    color: #9453A6;
+}
+a:hover{
+    text-decoration: none; 
+    color: #8CBF3F;
+}
+h5{
+    font-family: 'Henny Penny'
+}
+.card-styles{
+    background-color: #9453A6;
+}
+.card-header-styles{
+    background-color: #F2CC0F;
+}
+.card-body-styles{
+    background-color: #F2F2F2;
+}
+/*footer*/
+.footer1{background-color:#9453A6;}
+.row-m-left {margin: 0px;}
+.text{
+    text-align: center;
+}
+.pfooter{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #F2F2F2;
+    line-height: 50px;  
+}
+
